@@ -12,7 +12,7 @@
 mkdir formatter_lib
 cd formatter_lib
 
-code-oss CMakeLists.txt
+code CMakeLists.txt
 ```
 
 ```cmake
@@ -44,7 +44,7 @@ cmake --build .
 
 cd ..
 mkdir formatter_ex_lib && cd formatter_ex_lib
-code-oss CMakeLists.txt 
+code CMakeLists.txt 
 ```
 
 ```cmake
@@ -74,7 +74,7 @@ cmake --build .
 ```bash
 cd ../
 mkdir hello_world_application && cd hello_world_application
-code-oss CMakeLists.txt
+code CMakeLists.txt
 ```
 
 ```cmake
@@ -108,7 +108,7 @@ cmake --build .
 ```bash
 cd ../
 mkdir solver_application && cd solver_application
-code-oss CMakeLists.txt
+code CMakeLists.txt
 ```
 
 ```cmake
